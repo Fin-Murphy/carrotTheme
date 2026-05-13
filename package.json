@@ -1,0 +1,13 @@
+{"name":"theme-carrot",
+"displayName":"%displayName%",
+"description":"%description%",
+"version":"1.0.0",
+"publisher":"me!",
+"license":"me, myself and ... I?",
+"engines":{"vscode":"*"},
+"categories":["Themes"],
+"contributes":
+    {"themes":[{"id":"Carrot","label":"%themeLabel%",
+    "uiTheme":"vs-dark","path":"./themes/carrot-color-theme.json"}]},
+    "repository":{"type":"git","url":"https://github.com/microsoft/vscode.git"}
+}
